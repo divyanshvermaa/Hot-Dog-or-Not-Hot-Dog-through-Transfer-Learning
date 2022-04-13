@@ -2,7 +2,7 @@
 <div align="right"><i>Year: 2022</i></div>
 
 <img src=https://user-images.githubusercontent.com/32619706/163104361-5be199bd-d997-4382-8018-3ba633f9f729.png>
-Replicated the functionality of the *Not Hotdog* app (https://youtu.be/tWwCK95X6go) seen on Silicon Valley, a popular comedy series on HBO, by building a CNN to accurately classify images as *hot dog* or *not hot dog* through a pre-trained model: a case with limited training data.
+Replicated the functionality of the <i>Not Hotdog</i> app (https://youtu.be/tWwCK95X6go) seen on Silicon Valley, a popular comedy series on HBO, by building a CNN to accurately classify images as <i>hot dog</i> or <i>not hot dog</i> through a pre-trained model: a case with limited training data.
 
 ## Data & Challenges
 The dataset was obtained from [here](https://www.kaggle.com/datasets/dansbecker/hot-dog-not-hot-dog), which is a subset extracted from the *Food 101* dataset that contains photographs of 101 types of food. There are 498 images available for training, while the remaining 500 are to be kept aside for testing. For a classification task that is far from simple, there are extremely few samples to learn from. So, while this is a difficult machine learning problem, it is also a practical one: in many real-world use applications, even small-scale data collection can be prohibitively expensive or unattainable. Below is a sample from the dataset:
