@@ -49,6 +49,6 @@ The workflow includes taking layers from the previously trained model and freezi
 Since Xception requires the input pixels to be scaled between -1 and 1, this step was also implemented through a keras rescaling layer which was set to non-training. Finally, a GlobalAveragePooling2D layer was added to reduce the trainable parameters without compromising on their effect.
 
 ## Results
-<img src=https://user-images.githubusercontent.com/32619706/163102138-0979e40e-fd0b-486a-8436-1aaa58162b74.png>
+<img src=https://user-images.githubusercontent.com/32619706/163102138-0979e40e-fd0b-486a-8436-1aaa58162b74.png width="500">
 
 There was a **remarkable improvement** in the performance, with mean test accuracy reaching as high as **88.87%** (+/- 1.16%) over 5 runs, which is exceptionally good for the limited amount of training data at hand.
