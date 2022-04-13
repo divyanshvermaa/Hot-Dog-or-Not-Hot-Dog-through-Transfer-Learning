@@ -1,1 +1,0 @@
-# Hot-Dog-or-Not-Hot-Dog
