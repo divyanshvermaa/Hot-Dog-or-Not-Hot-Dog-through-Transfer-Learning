@@ -37,7 +37,7 @@ Though an increase (~0.9%) in accuracy was observed, it wasn't significant.
 
 Minor increase in (~0.5%) in the accuracy; not satisfactory still.
 
-(Note: implementation of change 1 and 2 are removed from the uploaded notebook)
+Note: implementations of changes 1 and 2 are removed from the uploaded notebook for better readability.
 
 ### Part (b): Transfer Learning
 
